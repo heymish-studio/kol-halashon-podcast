@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>דף היומי - הרב אסף רצון</title>
+<link>https://www.kolhalashon.com/he/regularSite/ravs/917737/1/1</link>
+<language>he</language>
+<description>שיעור דף יומי יומי עם הרב אסף רצון. כל יום דף חדש מהתלמוד הבבלי. השיעורים מוקלטים ומופצים מאתר קול הלשון.</description>
+<itunes:author>הרב אסף רצון</itunes:author>
+<itunes:summary>שיעור דף יומי יומי עם הרב אסף רצון. כל יום דף חדש מהתלמוד הבבלי. השיעורים מוקלטים ומופצים מאתר קול הלשון.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:image href="https://heymish-studio.github.io/kol-halashon-podcast/cover.jpg"/>
+<image><url>https://heymish-studio.github.io/kol-halashon-podcast/cover.jpg</url><title>דף היומי - הרב אסף רצון</title><link>https://www.kolhalashon.com/he/regularSite/ravs/917737/1/1</link></image>
+<itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+<itunes:owner><itunes:name>הרב אסף רצון</itunes:name><itunes:email>heymish.studio@gmail.com</itunes:email></itunes:owner>
+</channel>
+</rss>
