@@ -313,5 +313,14 @@
     "duration": 2844,
     "pubdate": "2026-05-01T08:16:30.277",
     "guid": "42506732"
+  },
+  "42620129": {
+    "title": "דף היומי - מסכת חולין, דף מט - הרב אסף רצון",
+    "description": "שיעור דף יומי - מסכת חולין, דף מט\nעם הרב אסף רצון\nתאריך: 18/06/2026\n\nהאזינו לשיעורים נוספים באתר קול הלשון:\nhttps://www.kolhalashon.com/he/regularSite/ravs/917737/1/1\n\n#דף_יומי #תלמוד_בבלי #הרב_אסף_רצון",
+    "audio_url": "https://github.com/heymish-studio/kol-halashon-podcast/releases/download/audio/42620129.mp3",
+    "length": 13992138,
+    "duration": 3495,
+    "pubdate": "2026-06-18T18:32:57.117",
+    "guid": "42620129"
   }
 }
