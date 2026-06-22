@@ -331,5 +331,14 @@
     "duration": 2552,
     "pubdate": "2026-06-19T08:17:03.56",
     "guid": "42621059"
+  },
+  "42622903": {
+    "title": "דף היומי - מסכת חולין, דף נב - הרב אסף רצון",
+    "description": "שיעור דף יומי - מסכת חולין, דף נב\nעם הרב אסף רצון\nתאריך: 21/06/2026\n\nהאזינו לשיעורים נוספים באתר קול הלשון:\nhttps://www.kolhalashon.com/he/regularSite/ravs/917737/1/1\n\n#דף_יומי #תלמוד_בבלי #הרב_אסף_רצון",
+    "audio_url": "https://github.com/heymish-studio/kol-halashon-podcast/releases/download/audio/42622903.mp3",
+    "length": 12791655,
+    "duration": 3195,
+    "pubdate": "2026-06-21T18:35:17.677",
+    "guid": "42622903"
   }
 }
