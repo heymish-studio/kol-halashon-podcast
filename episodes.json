@@ -574,5 +574,23 @@
     "duration": 3224,
     "pubdate": "2026-07-30T18:28:18.173",
     "guid": "42722303"
+  },
+  "42725330": {
+    "title": "דף היומי - מסכת חולין, דף צה - הרב אסף רצון",
+    "description": "שיעור דף יומי - מסכת חולין, דף צה\nעם הרב אסף רצון\nתאריך: 03/08/2026\n\nהאזינו לשיעורים נוספים באתר קול הלשון:\nhttps://www.kolhalashon.com/he/regularSite/ravs/917737/1/1\n\n#דף_יומי #תלמוד_בבלי #הרב_אסף_רצון",
+    "audio_url": "https://github.com/heymish-studio/kol-halashon-podcast/releases/download/audio/42725330.mp3",
+    "length": 14454188,
+    "duration": 3610,
+    "pubdate": "2026-08-03T18:19:24.42",
+    "guid": "42725330"
+  },
+  "42724293": {
+    "title": "דף היומי - מסכת חולין, דף צד - הרב אסף רצון",
+    "description": "שיעור דף יומי - מסכת חולין, דף צד\nעם הרב אסף רצון\nתאריך: 02/08/2026\n\nהאזינו לשיעורים נוספים באתר קול הלשון:\nhttps://www.kolhalashon.com/he/regularSite/ravs/917737/1/1\n\n#דף_יומי #תלמוד_בבלי #הרב_אסף_רצון",
+    "audio_url": "https://github.com/heymish-studio/kol-halashon-podcast/releases/download/audio/42724293.mp3",
+    "length": 12675983,
+    "duration": 3166,
+    "pubdate": "2026-08-02T18:26:49.363",
+    "guid": "42724293"
   }
 }
