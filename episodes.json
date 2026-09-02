@@ -754,5 +754,14 @@
     "duration": 3711,
     "pubdate": "2026-09-01T17:48:34.673",
     "guid": "42808868"
+  },
+  "42810485": {
+    "title": "דף היומי - מסכת חולין, דף קכה - הרב אסף רצון",
+    "description": "שיעור דף יומי - מסכת חולין, דף קכה\nעם הרב אסף רצון\nתאריך: 02/09/2026\n\nהאזינו לשיעורים נוספים באתר קול הלשון:\nhttps://www.kolhalashon.com/he/regularSite/ravs/917737/1/1\n\n#דף_יומי #תלמוד_בבלי #הרב_אסף_רצון",
+    "audio_url": "https://github.com/heymish-studio/kol-halashon-podcast/releases/download/audio/42810485.mp3",
+    "length": 12975661,
+    "duration": 3241,
+    "pubdate": "2026-09-02T17:50:41.303",
+    "guid": "42810485"
   }
 }
